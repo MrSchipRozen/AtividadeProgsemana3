@@ -1,0 +1,15 @@
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.AssemblyReference.cache
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/alanrozensztajnschipper/Projects/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll
